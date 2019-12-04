@@ -14,7 +14,7 @@
 }
 
 .restaurant-general .image:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  box-shadow: 0 0 2px 1px rgba(0, 247, 255, 0.5);
 }
 
 .restaurant-general .image img {
@@ -34,6 +34,7 @@
 .restaurant-general .content .name { 
   grid-row: 1; 
   text-decoration: none;
+  text-shadow: 2px 2px 5px rgba(0, 247, 255);
   font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
   font-weight: 500; 
   font-size: 25px;

@@ -22,10 +22,10 @@ const About = () => {
 				  	<p className="title">17 Fall</p>
 				  	<p> Northeastern </p>
 		    		<p> lyu.s@husky.neu.edu </p>
-		    		<a href="#"><i className="fa fa-dribbble"></i></a>
-  					<a href="#"><i className="fa fa-twitter"></i></a>
-  					<a href="#"><i className="fa fa-linkedin"></i></a>
-  					<a href="#"><i className="fa fa-facebook"></i></a>
+		    		<a href="/"><i className="fa fa-dribbble"></i></a>
+  					<a href="/"><i className="fa fa-twitter"></i></a>
+  					<a href="/"><i className="fa fa-linkedin"></i></a>
+  					<a href="/"><i className="fa fa-facebook"></i></a>
 		    	</div>
 		    	<div className="card">
 					<img src={lzh} alt="Zhihao Li" />
@@ -33,10 +33,10 @@ const About = () => {
 				  	<p className="title">18 Fall</p>
 				  	<p> Northeastern </p>
 		    		<p> li.zhiha@husky.neu.edu  </p>
-		    		<a href="#"><i className="fa fa-dribbble"></i></a>
-  					<a href="#"><i className="fa fa-twitter"></i></a>
-  					<a href="#"><i className="fa fa-linkedin"></i></a>
-  					<a href="#"><i className="fa fa-facebook"></i></a>
+		    		<a href="/"><i className="fa fa-dribbble"></i></a>
+  					<a href="/"><i className="fa fa-twitter"></i></a>
+  					<a href="/"><i className="fa fa-linkedin"></i></a>
+  					<a href="/"><i className="fa fa-facebook"></i></a>
 		    	</div>
 		    	<div className="card">
 					<img src={jw} alt="Wei Jia" />
@@ -44,10 +44,10 @@ const About = () => {
 				  	<p className="title">18 Fall</p>
 				  	<p> Northeastern </p>
 		    		<p> jia.wei@husky.neu.edu </p>
-		    		<a href="#"><i className="fa fa-dribbble"></i></a>
-  					<a href="#"><i className="fa fa-twitter"></i></a>
-  					<a href="#"><i className="fa fa-linkedin"></i></a>
-  					<a href="#"><i className="fa fa-facebook"></i></a>
+		    		<a href="/"><i className="fa fa-dribbble"></i></a>
+  					<a href="/"><i className="fa fa-twitter"></i></a>
+  					<a href="/"><i className="fa fa-linkedin"></i></a>
+  					<a href="/"><i className="fa fa-facebook"></i></a>
 		    	</div>
 		    	<div className="card">
 					<img src={sja} alt="Jiaan Shi" />
@@ -55,10 +55,10 @@ const About = () => {
 				  	<p className="title">19 Fall</p>
 				  	<p> Northeastern </p>
 		    		<p> shi.jiaa@husky.neu.edu </p>
-		    		<a href="#"><i className="fa fa-dribbble"></i></a>
-  					<a href="#"><i className="fa fa-twitter"></i></a>
-  					<a href="#"><i className="fa fa-linkedin"></i></a>
-  					<a href="#"><i className="fa fa-facebook"></i></a>
+		    		<a href="/"><i className="fa fa-dribbble"></i></a>
+  					<a href="/"><i className="fa fa-twitter"></i></a>
+  					<a href="/"><i className="fa fa-linkedin"></i></a>
+  					<a href="/"><i className="fa fa-facebook"></i></a>
 		    	</div>
 		    </div>
 	    </div>
